@@ -6,7 +6,7 @@ public class destruct : MonoBehaviour {
 
 	public GameObject destroy;
 	
-	void OnMouseDown()
+	void OnTriggerEnter()
 	{
 		Instantiate(destroy, transform.position, transform.rotation);
 		Destroy(gameObject);
