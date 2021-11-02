@@ -12,7 +12,7 @@ public class destruct : MonoBehaviour {
 	//	Destroy(gameObject);
 	//}
 
-	void OnmouseClick()
+	void OnMouseDown()
 	{
 		Instantiate(destroy, transform.position, transform.rotation);
 		Destroy(gameObject);
