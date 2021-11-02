@@ -15,6 +15,19 @@ public class destruct : MonoBehaviour {
 	void OnMouseDown()
 	{
 		Instantiate(destroy, transform.position, transform.rotation);
-		Destroy(gameObject);
+		Destroy(gameObject); 
+		Debug.Log("destroy");
+
+		StartCoroutine(respawn());
 	}
+
+	public IEnumerator respawn()
+    {
+		Debug.Log("respawn");
+		yield return new WaitForSeconds(2f);
+		Instantiate(destroy, transform.position, transform.rotation);
+
+	}
+
+	
 }
