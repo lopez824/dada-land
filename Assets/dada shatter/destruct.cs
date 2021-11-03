@@ -16,18 +16,18 @@ public class destruct : MonoBehaviour {
 	{
 		Instantiate(destroy, transform.position, transform.rotation);
 		Destroy(gameObject); 
-		Debug.Log("destroy");
+		//Debug.Log("destroy");
 
-		StartCoroutine(respawn());
+		//StartCoroutine(respawn());
 	}
 
-	public IEnumerator respawn()
-    {
-		Debug.Log("respawn");
-		yield return new WaitForSeconds(2f);
-		Instantiate(destroy, transform.position, transform.rotation);
+	//public IEnumerator respawn()
+ //   {
+	//	Debug.Log("respawn");
+	//	yield return new WaitForSeconds(2f);
+	//	Instantiate(destroy, transform.position, transform.rotation);
 
-	}
+	//}
 
 	
 }
