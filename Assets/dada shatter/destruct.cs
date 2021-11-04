@@ -1,17 +1,20 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Oculus;
 
 public class destruct : MonoBehaviour {
 
 	public GameObject destroy;
-
     void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "Weapon" || other.tag == "Art")
+        if (gameObject.GetComponent<OVRGrabbable>().isGrabbed == false)
         {
-            Destroy(gameObject);
-            Instantiate(destroy, transform.position, transform.rotation);
+            if (other.tag == "Weapon" || other.tag == "Art")
+            {
+                gameObject.SetActive(false);
+                Instantiate(destroy, transform.position, transform.rotation);
+            }
         }
     }
 
