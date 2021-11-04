@@ -292,7 +292,8 @@ PrefabInstance:
       propertyPath: destroy
       value: 
       objectReference: {fileID: 2872604132402082870, guid: fd0deb7b528794c4ebdaa8d6706e046e, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2683083569611341259, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
 --- !u!4 &35768632 stripped
 Transform:
@@ -378,7 +379,8 @@ PrefabInstance:
       propertyPath: destroy
       value: 
       objectReference: {fileID: 2872604132402082870, guid: fd0deb7b528794c4ebdaa8d6706e046e, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2683083569611341259, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
 --- !u!4 &68987485 stripped
 Transform:
@@ -649,7 +651,8 @@ PrefabInstance:
       propertyPath: destroy
       value: 
       objectReference: {fileID: 2872604132402082870, guid: fd0deb7b528794c4ebdaa8d6706e046e, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2683083569611341259, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
 --- !u!4 &168212074 stripped
 Transform:
@@ -1190,7 +1193,8 @@ PrefabInstance:
       propertyPath: destroy
       value: 
       objectReference: {fileID: 2872604132402082870, guid: fd0deb7b528794c4ebdaa8d6706e046e, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2683083569611341259, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
 --- !u!4 &359363473 stripped
 Transform:
@@ -1643,7 +1647,8 @@ PrefabInstance:
       propertyPath: destroy
       value: 
       objectReference: {fileID: 2872604132402082870, guid: fd0deb7b528794c4ebdaa8d6706e046e, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2683083569611341259, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
 --- !u!4 &524629576 stripped
 Transform:
@@ -2512,7 +2517,8 @@ PrefabInstance:
       propertyPath: destroy
       value: 
       objectReference: {fileID: 2872604132402082870, guid: fd0deb7b528794c4ebdaa8d6706e046e, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2683083569611341259, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
 --- !u!4 &791519315 stripped
 Transform:
@@ -2778,7 +2784,8 @@ PrefabInstance:
       propertyPath: destroy
       value: 
       objectReference: {fileID: 2872604132402082870, guid: fd0deb7b528794c4ebdaa8d6706e046e, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2683083569611341259, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
 --- !u!4 &858514621 stripped
 Transform:
@@ -2959,7 +2966,8 @@ PrefabInstance:
       propertyPath: destroy
       value: 
       objectReference: {fileID: 2872604132402082870, guid: fd0deb7b528794c4ebdaa8d6706e046e, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2683083569611341259, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
 --- !u!4 &996774126 stripped
 Transform:
@@ -3045,7 +3053,8 @@ PrefabInstance:
       propertyPath: destroy
       value: 
       objectReference: {fileID: 2872604132402082870, guid: fd0deb7b528794c4ebdaa8d6706e046e, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2683083569611341259, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
 --- !u!4 &1023871965 stripped
 Transform:
@@ -3131,7 +3140,8 @@ PrefabInstance:
       propertyPath: destroy
       value: 
       objectReference: {fileID: 2872604132402082870, guid: fd0deb7b528794c4ebdaa8d6706e046e, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2683083569611341259, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
 --- !u!4 &1092991664 stripped
 Transform:
@@ -3217,7 +3227,8 @@ PrefabInstance:
       propertyPath: destroy
       value: 
       objectReference: {fileID: 2872604132402082870, guid: fd0deb7b528794c4ebdaa8d6706e046e, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2683083569611341259, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
 --- !u!4 &1165272396 stripped
 Transform:
@@ -3461,7 +3472,8 @@ PrefabInstance:
       propertyPath: destroy
       value: 
       objectReference: {fileID: 2872604132402082870, guid: fd0deb7b528794c4ebdaa8d6706e046e, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2683083569611341259, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
 --- !u!4 &1209323912 stripped
 Transform:
@@ -4012,7 +4024,8 @@ PrefabInstance:
       propertyPath: destroy
       value: 
       objectReference: {fileID: 2872604132402082870, guid: fd0deb7b528794c4ebdaa8d6706e046e, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2683083569611341259, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
 --- !u!4 &1481859375 stripped
 Transform:
@@ -4270,7 +4283,8 @@ PrefabInstance:
       propertyPath: destroy
       value: 
       objectReference: {fileID: 2872604132402082870, guid: fd0deb7b528794c4ebdaa8d6706e046e, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2683083569611341259, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
 --- !u!4 &1652011852 stripped
 Transform:
@@ -4858,7 +4872,8 @@ PrefabInstance:
       propertyPath: destroy
       value: 
       objectReference: {fileID: 2872604132402082870, guid: fd0deb7b528794c4ebdaa8d6706e046e, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2683083569611341259, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
 --- !u!4 &1948710734 stripped
 Transform:
@@ -5295,7 +5310,8 @@ PrefabInstance:
       propertyPath: destroy
       value: 
       objectReference: {fileID: 2872604132402082870, guid: fd0deb7b528794c4ebdaa8d6706e046e, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2683083569611341259, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
 --- !u!4 &2060755055 stripped
 Transform:
@@ -5381,7 +5397,8 @@ PrefabInstance:
       propertyPath: destroy
       value: 
       objectReference: {fileID: 2872604132402082870, guid: fd0deb7b528794c4ebdaa8d6706e046e, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2683083569611341259, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
 --- !u!4 &2072178111 stripped
 Transform:
@@ -5742,7 +5759,8 @@ PrefabInstance:
       propertyPath: destroy
       value: 
       objectReference: {fileID: 2872604132402082870, guid: fd0deb7b528794c4ebdaa8d6706e046e, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2683083569611341259, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
 --- !u!4 &2122496543 stripped
 Transform:
