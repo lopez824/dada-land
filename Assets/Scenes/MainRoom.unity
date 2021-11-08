@@ -2107,7 +2107,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.8113208, g: 0.73148984, b: 0.37887147, a: 1}
-  m_Intensity: 6.51
+  m_Intensity: 6.72
   m_Range: 13.35
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -2180,10 +2180,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 434517807}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 69a94e980a6f6d545ac1782967d0a8cf, type: 3}
+  m_Script: {fileID: 11500000, guid: 8ef99adbb58099444b7e3232a990f700, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mainlight: {fileID: 0}
+  minIntensity: 1
+  maxIntensity: 5
+  frequency: 0.01
 --- !u!1001 &445758301
 PrefabInstance:
   m_ObjectHideFlags: 0
