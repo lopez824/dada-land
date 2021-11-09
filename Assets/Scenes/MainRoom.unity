@@ -2188,13 +2188,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 434517807}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8ef99adbb58099444b7e3232a990f700, type: 3}
+  m_Script: {fileID: 11500000, guid: 69a94e980a6f6d545ac1782967d0a8cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minIntensity: 1
-  maxIntensity: 5
-  frequency: 0.01
-  a: 1
+  mylight: {fileID: 0}
+  changerange: 0
+  rangespeed: 1
+  maxrange: 10
+  changeintensity: 1
+  intensityspeed: 1
+  maxintensity: 12
 --- !u!4 &449115226 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2683083569611341254, guid: 67c78482244f2814c9e81d51fd7222a5, type: 3}
